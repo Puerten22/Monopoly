@@ -47,11 +47,10 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<sonar.organization>jononekin</sonar.organization>
+		<sonar.organization>uerten22</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_kk</sonar.projectKey>
-		<sonar.token>1a23d37ec14af8930c15f0f0e9c6d84e81f35b53</sonar.token>
-
+		<sonar.projectKey>Puerten22_si2ostirala25</sonar.projectKey>
+		<sonar.token>4f7162aa95b5c78556e297ed2af434a6348f29f8</sonar.token>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
@@ -146,5 +145,7 @@
 		</dependency>
 
 	</dependencies>
+	
+	
 
 </project>
