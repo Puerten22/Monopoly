@@ -10,3 +10,4 @@ public abstract class Card {
     public abstract int getCardType();
 }
 
+//I have added a comment
