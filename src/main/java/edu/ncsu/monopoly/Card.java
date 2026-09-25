@@ -9,3 +9,5 @@ public abstract class Card {
     public abstract void applyAction();
     public abstract int getCardType();
 }
+
+//I have added a comment
